@@ -1,3 +1,3 @@
 # ringdown-data-conditioning
 
-Simulation studies for "Data Conditioning for Time-Domain Analysis of Black Hole Ringdown".
+Simulation studies for "Analyzing black-hole ringdowns II: data conditioning".
